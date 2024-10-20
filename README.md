@@ -32,9 +32,9 @@ After training, the system can predict the ideal crop for a given set of conditi
 The Crop Recommendation System not only optimizes crop selection but also helps in sustainable farming practices by minimizing resource wastage, improving soil management, and enhancing productivity. The long-term goal of the system is to empower farmers with actionable insights that lead to improved decision-making, higher crop yields, and better resilience to environmental fluctuations.
                                                                                                                                                                   
 --By Team Data Squad :
-         Meenu S 
-         Sravani P
-         Roop Sagar S L
-         Harshitha V
-         Shiv Sujan S R
+         Meenu S, 
+         Sravani P,
+         Roop Sagar S L,
+         Harshitha V,
+         Shiv Sujan S R,
          Sree Hari K
