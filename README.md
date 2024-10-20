@@ -12,7 +12,7 @@ This system uses machine learning algorithms to analyze a wide range of input at
 
 The process begins with data collection, where information about soil properties and climate is gathered. The data undergoes encoding to convert any categorical variables (if present) into numerical form, followed by preprocessing, which includes handling missing values, normalising data, and splitting it into training and testing sets.
 
-Next, we apply machine learning algorithms like Support Vector Machines (SVM) and Decision Trees. These models are trained on historical crop and soil data to learn the relationships between soil attributes and crop performance. The SVM is used for classification by identifying optimal boundaries between crop types, while the Decision Tree captures complex interactions between input variables to predict the most appropriate crop.
+Next, we apply machine learning algorithms like Support Vector Machines (SVM), K-Means Clustering, Logistic Regression and Decision Trees. These models are trained on historical crop and soil data to learn the relationships between soil attributes and crop performance. The SVM is used for classification by identifying optimal boundaries between crop types, while the Decision Tree captures complex interactions between input variables to predict the most appropriate crop.
 
 After training, the system can predict the ideal crop for a given set of conditions, providing farmers with tailored recommendations. This data-driven approach not only optimizes crop selection but also contributes to sustainable farming by enhancing productivity and reducing risks.
 
@@ -28,7 +28,13 @@ After training, the system can predict the ideal crop for a given set of conditi
 ![8](https://github.com/user-attachments/assets/0115339e-a00d-4439-89bb-c6694ea96b54)
 ![9](https://github.com/user-attachments/assets/c96590bc-2533-423f-855f-a78871098c4b)
 
-## Video Explanation:
-
 ## Conclusion:
 The Crop Recommendation System not only optimizes crop selection but also helps in sustainable farming practices by minimizing resource wastage, improving soil management, and enhancing productivity. The long-term goal of the system is to empower farmers with actionable insights that lead to improved decision-making, higher crop yields, and better resilience to environmental fluctuations.
+                                                                                                                                                                  
+--By Team Data Squad :
+         Meenu S 
+         Sravani P
+         Roop Sagar S L
+         Harshitha V
+         Shiv Sujan S R
+         Sree Hari K
